@@ -1,9 +1,9 @@
 /*
-Kuyruk(queue) veri yapısında verilen dizinin içerisinde bitişik
-olarak birbirinin tekrar eden tüm karakterleri kaldıran C kodunu
-yazınız. Algoritma, sonuçta birbirini tekrar eden hiçbir kopya
-kalmayana kadar kuyruktan bitişik kopyaları kaldırmaya devam
-etmelidir.
+    Queue veri yapÄ±sÄ±nda verilen dizideki tÃ¼m yinelenen karakterleri silen C kodunu yazÄ±nÄ±z. 
+    Algoritma, sonuÃ§ta yineleme kalmayana kadar bitiÅŸik kopyalarÄ± sÄ±radan kaldÄ±rmaya devam etmelidir.
+
+    Write the C code that removes all repeating characters in the sequence given in the Queue data structure.
+    The algorithm should continue to remove contiguous copies from the queue until there are no duplicates in the result.
 */
 
 #include <stdio.h>
